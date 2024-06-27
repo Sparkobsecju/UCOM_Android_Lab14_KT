@@ -1,4 +1,4 @@
-package com.example.lab14__kt
+package com.example.lab14_kt
 
 import android.os.Bundle
 import android.os.Handler
@@ -10,7 +10,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.lab14_kt.R
 
 class MainActivity : AppCompatActivity() {
     private var counter1: Int = 0
